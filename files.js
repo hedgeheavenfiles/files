@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
 
-const ignored = ['index.html', 'files.json', 'files.js', 'README.md', 'new/_template', 'functions'];
+const ignored = ['index.html', 'files.json', 'files.js', 'README.md', 'functions'];
 
 function getGitMtime(filePath) {
   try {
