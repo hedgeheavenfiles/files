@@ -19,6 +19,7 @@ function generateIndexHTML() {
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="https://hedgeheaven.pages.dev/assets/favicon.png" type="image/png" />
 <title>Index of</title>
 <style>
   body { font-family: monospace; padding: 20px; }
